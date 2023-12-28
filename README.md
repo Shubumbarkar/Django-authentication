@@ -1,7 +1,6 @@
 # Django-authentication
 
 =Features
--User Registration: Allow users to create accounts with email verification.
 -User Login: Provide a secure login system for registered users.
 -Password Reset: Allow users to reset their passwords via email.
 -User Profile: Implement a user profile page with relevant information.
